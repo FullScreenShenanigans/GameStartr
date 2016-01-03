@@ -160,9 +160,10 @@ declare module UserWrappr {
          */
         GameStartrConstructor: IGameStartrConstructor;
     }
-
+    
     /**
-     *
+     * A user interface manager made to work on top of GameStartr implementations
+     * and provide a configurable HTML display of options.
      */
     export interface IUserWrappr {
         /**
