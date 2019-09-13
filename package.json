@@ -14,7 +14,7 @@
     "changelinr": "^0.7.4",
     "classcyclr": "^0.7.5",
     "devicelayr": "^0.7.6",
-    "fpsanalyzr": "^0.7.8",
+    "fpsanalyzr": "0.7.7",
     "frametickr": "^0.7.8",
     "groupholdr": "^0.7.11",
     "inputwritr": "^0.7.4",
