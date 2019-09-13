@@ -18,7 +18,7 @@
     "frametickr": "^0.7.8",
     "groupholdr": "^0.7.11",
     "inputwritr": "^0.7.4",
-    "itemsholdr": "^0.7.10",
+    "itemsholdr": "0.7.9",
     "mapscreatr": "^0.7.7",
     "mapscreenr": "^0.7.4",
     "modattachr": "^0.7.8",
