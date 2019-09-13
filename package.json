@@ -20,7 +20,7 @@
     "inputwritr": "^0.7.4",
     "itemsholdr": "^0.7.10",
     "mapscreatr": "^0.7.7",
-    "mapscreenr": "^0.7.4",
+    "mapscreenr": "0.7.3",
     "modattachr": "^0.7.8",
     "numbermakr": "^0.7.3",
     "objectmakr": "^0.7.7",
